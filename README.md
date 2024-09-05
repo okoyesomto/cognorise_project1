@@ -1,4 +1,4 @@
-# cognorise_project1
+# Cereals Analysis
 ![](cereals.jpg)
 
 # Introduction:
